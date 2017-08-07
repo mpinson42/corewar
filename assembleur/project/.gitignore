@@ -1,0 +1,6 @@
+# Le binaire asm
+asm
+
+# Fichiers de champions
+*.s
+*.cor

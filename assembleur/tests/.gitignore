@@ -1,0 +1,12 @@
+# Dossier travail pour les champs
+/champs_for_spec
+/tmp_compiled_champs
+/tmp_compiled_champs
+
+# Champions à la racine
+/*.s
+/*.cor
+
+# Les asm
+/asm
+/asm_ref
